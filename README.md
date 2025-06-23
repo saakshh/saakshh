@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saksham 👋</h1>
 
-<!--
-**saakshh/saakshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Sophomore @ Purdue University • CS Major • Aspiring SWE & Data Analyst 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🎓 CS major @ Purdue | Machine Intelligence Track | Certificate in Entrepreneurship and Innovation
+- 🔬 Researcher @ Kihara Lab + Purdue Athletics via The Data Mine + Bayer via The Data Mine
+- ✅ Completed: Snap Study – AI-powered education app for neurodiverse learners
+- 💼 Central Hiring Specialist | Purdue Dining & Culinary
+- 🌱 Learning: Flutter, AWS, AlphaFold, Full-Stack Dev
+
+---
+
+### 🔧 Tech Stack
+
+Python · R · Flutter · FastAPI · Django · Flask · Java · SQL · AWS · Tableau · Git · GitHub · Jupyter · Linux · Slurm
+
+---
+
+### 📌 Featured Projects
+
+#### 🧠 [Snap Study – Showcase](https://github.com/saakshh/snap-study-showcase)
+AI-powered learning assistant designed to help neurodiverse students  
+*Built using Flutter, AWS Textract/Bedrock/Polly, and FastAPI. I led the frontend development—implementing over 15 polished screens with features like dashboards, audio narration, and accessibility tools.*
+
+#### 🕹 [Jungle Match Game](https://github.com/saakshh/jungle-match)
+A Python-based memory matching game using PyGame  
+*Designed graphics and logic for a fun matching game using event handling and image transformations.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saakshh&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshh&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/saksham-singh-51b02a294](https://www.linkedin.com/in/saksham-singh-51b02a294)

@@ -30,19 +30,4 @@ AI-powered learning assistant designed to help neurodiverse students
 
 #### 🕹 [Jungle Match Game](https://github.com/saakshh/jungle-match)
 A Python-based memory matching game using PyGame  
-*Designed graphics and logic for a fun matching game using event handling and image transformations.*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saakshh&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshh&layout=compact&theme=github_dark" height="180"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/saksham-singh-51b02a294](https://www.linkedin.com/in/saksham-singh-51b02a294)
+*Designed graphics and logic for a fun matching game using event handling and image transformations.
